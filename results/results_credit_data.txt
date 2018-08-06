@@ -1,0 +1,4 @@
+Credit Data
+------------------------
+0.9379 - Naive Bayes (inconsistentes + faltantes + escalonamento)
+0.982 - Decision trees (inconsistentes + faltantes + escalonamento)

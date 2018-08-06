@@ -1,0 +1,12 @@
+Credit Data
+------------------------
+0.4767 - Naive Bayes (labelencoder + onehotencoder + escalonamento)
+0.7952 - Naive Bayes (labelencoder)
+0.7950 - Naive Bayes (labelencoder + onehotencoder)
+0.8057 - Naive Bayes (inconsistentes + escalonamento)
+
+0.8167 - Naive Bayes (labelencoder + onehotencoder + escalonamento)
+0.8104 - Naive Bayes (labelencoder)
+0.8169 - Naive Bayes (labelencoder + onehotencoder)
+0.8104 - Naive Bayes (labelencoder + escalonamento)
+
