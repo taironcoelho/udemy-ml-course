@@ -2,3 +2,6 @@ Credit Data
 ------------------------
 0.9379 - Naive Bayes (inconsistentes + faltantes + escalonamento)
 0.982 - Decision trees (inconsistentes + faltantes + escalonamento)
+0.9819 - Random forest (inconsistentes + faltantes + escalonamento)
+0.984 - Random forest n_estimators= 40 (inconsistentes + faltantes + escalonamento)
+0.986 - kNN (inconsistentes + faltantes + escalonamento)
